@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwjqHAHq5j1ANrnmnpt7AIvUAzYdbwd95i6+k57sT7JK9T3MulfwOCiWTn+wkXppUgqd40NOdwIyVQOi8KmWzg==",
+  "success": true,
+  "projectFilePath": "D:\\ProgrammingProjects\\MediatorPattern\\MediatorPattern\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Killua\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.4.0\\swashbuckle.aspnetcore.annotations.6.4.0.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Killua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

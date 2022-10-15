@@ -1,0 +1,12 @@
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\bin\Debug\net6.0\Core.deps.json
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\bin\Debug\net6.0\Core.dll
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\bin\Debug\net6.0\Core.pdb
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.dll
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\refint\Core.dll
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\Core.pdb
+D:\ProgrammingProjects\MediatorPattern\MediatorPattern\Core\obj\Debug\net6.0\ref\Core.dll
